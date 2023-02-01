@@ -8,3 +8,5 @@ Tens of thousands of tonnes of Pacific herring (Clupea pallasii) travel from off
 (4) What other species (animals and plants) live on the herring nets?  
  
 Previous studies have discussed that the spawn event for Pacific Herring occurs between early February and Late April. The egg count will be determined from the analysis of the photographs of the nets. The preferred spawning factors of Pacific herring will be determined from the abiotic data collected in our study. Net cleanliness refers to the degree of algal coverage on the net that reduces herring spawning habitat. Other species that occupy the same space include algae, crustaceans, and amphipods will also be observed and noted. This project aims to shape future restoration efforts around False Creek to improve the quality and quantity of the Pacific herring spawning habitat.  
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=595865832)
